@@ -31,7 +31,3 @@ Clone the repository and install necessary dependencies:
 ```bash
 git clone [Your-Repository-URL]
 pip install tensorflow pandas scikit-learn numpy
-
-
-## Contributor
-Amitabh Chakravorty
