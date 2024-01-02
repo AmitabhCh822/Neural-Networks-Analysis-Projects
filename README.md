@@ -1,4 +1,4 @@
-# Neural Networks Data Analysis
+# Neural Networks Data Analysis Projects
 
 This repository is a collection of neural network models tailored for data analysis across different domains, including sports performance, wine quality, and medical data. It demonstrates the application of machine learning techniques to diverse datasets using Keras and TensorFlow.
 
